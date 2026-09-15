@@ -1,0 +1,6 @@
+{
+  "appId": "com.mu.idleawakening",
+  "appName": "MU Idle Awakening",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
